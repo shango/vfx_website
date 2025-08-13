@@ -1,5 +1,5 @@
 # main text of home
-title: John Doe
+title: Shannon Gold | VFX Artist
 bio: A Person who travels the world eating noodles
 
 # twitter summary info
@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://shannongold.com
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -47,13 +47,13 @@ authors:
     bio: A Man who travels the world eating noodles
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
+    twitter: sggold
+  shannongold:
+    name: Shannon Gold
+    bio: Visual Effects Artist
     external-image: false
     picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: sggold
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
